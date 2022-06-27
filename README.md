@@ -1,4 +1,4 @@
 # javascript-calculator
 Basic arithmetic calculator
 
-View output 👉
+View output 👉 https://kingofoc.github.io/javascript-calculator/
